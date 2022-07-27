@@ -1,6 +1,7 @@
-aws-credentials.sh
+secret-aws.sh
 .terraform
 .terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
-
+aws-key
+aws-key.pub
